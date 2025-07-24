@@ -1,6 +1,2 @@
 .idea/
 .venv/
-.python-version
-pyproject.toml
-uv.lock
-README.md
