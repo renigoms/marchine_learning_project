@@ -1,2 +1,6 @@
 .idea/
 .venv/
+venv/
+.python-version
+pyproject.toml
+uv.lock
